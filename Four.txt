@@ -1,2 +1,5 @@
 Four
 444
+Learning Stash
+
+In this stash there we use list,Drop,pop and apply
